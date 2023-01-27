@@ -8,8 +8,7 @@ We also used Quick DBD to create an Entity Relationship Diagrams to connect all 
 ### Unique Titles Table
 - The unique titles table shows there are a total of 72,458 employees that are coming up for retirement. This table will show first name, last name, and title in employee number order.
 
-<p align="center">
-  ![unique_titles](unique_titles.png)
+![unique_titles](unique_titles.png)
 ### Retiring Table
 - The following table shows the number of employees coming up to retire per title. The top three titles losing the most employees due to retirement will be Senior Engineers, Senior Staff, and Engineers.
 - The bottom two titles losing the least employees due to retirement are Managers and Assistant Engineers.
