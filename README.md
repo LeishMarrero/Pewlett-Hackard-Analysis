@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 ## Overview of Project
-Pewlett Hackard is a company that has been around for a long time. HR has begun employee research to offer retirement packages to those coming near retirement and also to prepare for all the positions that will need to be filled.
+Pewlett Hackard is a company that has been around for a long time. HR has begun employee research to offer retirement packages to those coming near retirement and also prepare for all the positions that will need to be filled.
 ## Purpose
 The purpose of this project is to use PostgreSQL and pgAdmin to create a database and tables with all the information needed.
 We also used Quick DBD to create an Entity Relationship Diagrams to connect all of our data.
